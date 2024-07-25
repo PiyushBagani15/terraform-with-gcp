@@ -1,7 +1,7 @@
 # Terraform with GCP - Task 1
 
 ## Overview
-This repository contains the Terraform configuration files used for Task 1 in our series of tasks designed to automate the provisioning of infrastructure on Google Cloud Platform (GCP) using Terraform. This task demonstrates how to set up a basic cloud infrastructure which includes features like [specify features, e.g., VM instances, networking components, etc.].
+This repository contains the Terraform configuration files used for Task 1 in our series of tasks designed to automate the provisioning of infrastructure on the Google Cloud Platform (GCP) using Terraform. This task demonstrates how to set up a basic cloud run service in GCP.
 
 ## Prerequisites
 Before you begin, ensure you have the following prerequisites installed and set up:
