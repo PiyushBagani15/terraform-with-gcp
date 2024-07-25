@@ -64,7 +64,7 @@ terraform plan
 terraform apply 
 ```
 ## Customization
-You can customize the Terraform configurations by modifying the variables in `variables.tf`. For example, you can change the settings for the type and number of resources to be provisioned.
+You can customize the Terraform configurations by modifying the variables in `terraform.tfvars`. For example, you can change the settings for number of resources to be provisioned.
 
 ## Contributing
 Contributions to this project are welcome. To contribute:
