@@ -11,7 +11,6 @@ Before you begin, ensure you have the following prerequisites installed and set 
 - Properly configured GCP credentials (e.g., service account key file)
 
 ## Project Structure
-## Project Structure
 
 The following is the directory structure of this Terraform project:
 
