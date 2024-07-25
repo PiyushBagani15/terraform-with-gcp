@@ -27,6 +27,7 @@ Task-1/
 - **main.tf**: Contains the primary set of configurations that define the resources to be provisioned in GCP.
 - **variables.tf**: Defines the variables used across all Terraform configuration files.
 - **outputs.tf**: Specifies the output information after Terraform execution.
+- **terraform.tfvars**: Specifies the values to variables essential for Terraform execution.
 
 ## Usage
 To use this Terraform setup, follow these steps:
